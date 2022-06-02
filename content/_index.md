@@ -15,6 +15,7 @@ Tämä sivu kokoaa yhteen tietoa pitkistä yli 200 kilometrin vaellusreiteistä 
 
 - Ossi Määtän [620 km vaellus Lapin erämaissa 2018](https://kevyestikairassa.com/blog/index.php/2018/09/25/620-km-ultrakevyt-vaellus-lapin-eramaissa/), Jerisjävi-Nellim.
 - Ulkoa-blogissa [450 km vaellus Lapin erämaissa 2021](https://ulkoa.com/450-km-vaellus-lapin-eramaissa/), Kemihaara-Näätämö.
+- Jalkaisin-blogissa [Vaellus Suomen poikki 2018](https://jalkaisin.blogspot.com/2018/08/vaelluksella-suomen-poikki-osa-1.html), Raatteentie-Oulu, 250 km
 
 ## Videoita
 
