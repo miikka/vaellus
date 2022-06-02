@@ -16,6 +16,9 @@ Tämä sivu kokoaa yhteen tietoa pitkistä vaellusreiteistä Suomessa ja niillä
 - [Seinäjoki-vaellusreitti](https://www.seinajoki.fi/tiedotteet/seinajoki-vaellusreitin-avajaiset-14-5/): Ylistaro-Peräseinäjoki, 170 km
 - [Karhunpolku](http://www.vaellus.info/reittitarkennus.php?id=041008102304867F): Patvinsuo-Teljo, 133 km
 
+Varsinkaan Etelä-Suomessa ei ole kovin montaa pitkää vaellusreittiä.
+Lyhyempiä reittejä yhdistelemällä voi kuitenkin kulkea pitkänkin matkan.
+
 ## Vaelluskertomuksia
 
 - Ossi Määtän [620 km vaellus Lapin erämaissa 2018](https://kevyestikairassa.com/blog/index.php/2018/09/25/620-km-ultrakevyt-vaellus-lapin-eramaissa/), Jerisjävi-Nellim.
