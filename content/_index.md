@@ -14,6 +14,7 @@ Tämä sivu kokoaa yhteen tietoa pitkistä vaellusreiteistä Suomessa ja niillä
   - [Ylläpidetty osuus (Luontoon.fi)](https://www.luontoon.fi/itarajankesaretkeilyreitti): Hossa-Martinselkonen, 57 km
 - [Pirkan taival](https://www.theseus.fi/bitstream/handle/10024/88484/tero_kuorikoski.pdf?sequence=1&isAllowed=y): Tampere-Virrat, 270 km
 - [Seinäjoki-vaellusreitti](https://www.seinajoki.fi/tiedotteet/seinajoki-vaellusreitin-avajaiset-14-5/): Ylistaro-Peräseinäjoki, 170 km
+- [Karhunpolku](http://www.vaellus.info/reittitarkennus.php?id=041008102304867F): Patvinsuo-Teljo, 133 km
 
 ## Vaelluskertomuksia
 
