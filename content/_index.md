@@ -11,6 +11,11 @@ Tämä sivu kokoaa yhteen tietoa pitkistä yli 200 kilometrin vaellusreiteistä 
   - [Vesa Jakosuon vaelluskertomus 2016](https://aloneinthewild.net/2018/05/30/ukk-reitti-kolilta-kiilopaalle/)
 - Tommi Lahtosen [Suomi päästä päähän -reitti](https://hazor.iki.fi/2021/suomi/): Vironlahti-Nuorgam, 1850 km
 
+## Vaelluskertomuksia
+
+- Ossi Määtän [620 km vaellus Lapin erämaissa 2018](https://kevyestikairassa.com/blog/index.php/2018/09/25/620-km-ultrakevyt-vaellus-lapin-eramaissa/), Jerisjävi-Nellim.
+- Ulkoa-blogissa [450 km vaellus Lapin erämaissa 2021](https://ulkoa.com/450-km-vaellus-lapin-eramaissa/), Kemihaara-Näätämö.
+
 ## Videoita
 
 - [Katariina Perkonoja](https://www.youtube.com/c/KatariinaPerkonojaHikes/featured)
