@@ -1,0 +1,7 @@
+baseURL = 'https://miikka.github.io/vaellus/'
+languageCode = 'fi'
+title = 'Pitkiä vaelluksia Suomessa'
+theme = 'hugo-book'
+
+[params]
+BookRepo = 'https://github.com/miikka/vaellus'
