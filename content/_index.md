@@ -5,11 +5,12 @@ Tämä sivu kokoaa yhteen tietoa pitkistä vaellusreiteistä Suomessa ja niillä
 
 ## Reittejä
 
+- [Finlandia-reitti](https://hazor.iki.fi/finlandia/): Vironlahti-Nuorgam, 1900 km
+  - [Tommi Lahtosen vaelluskertomus 2021](https://hazor.iki.fi/2021/suomi/)
 - [Kalottireitti](https://www.luontoon.fi/kalottireitti): 800 km, josta 70 km Suomessa
 - [Karelidien reitti](https://www.instagram.com/p/CeIvLbgOHjI/): Koli-Hetta, 1400 km
 - [UKK-vaellusreitti](https://fi.wikipedia.org/wiki/UKK-reitti): Koli-Kiilopää, 1100 km
   - [Vesa Jakosuon vaelluskertomus 2016](https://aloneinthewild.net/2018/05/30/ukk-reitti-kolilta-kiilopaalle/)
-- Tommi Lahtosen [Suomi päästä päähän -reitti](https://hazor.iki.fi/2021/suomi/): Vironlahti-Nuorgam, 1850 km
 - [Itärajan retkeilyreitti](https://www.itarajanreitti.fi/): Hossa-Vartius, 160 km
   - [Ylläpidetty osuus (Luontoon.fi)](https://www.luontoon.fi/itarajankesaretkeilyreitti): Hossa-Martinselkonen, 57 km
 - [Pirkan taival](https://www.theseus.fi/bitstream/handle/10024/88484/tero_kuorikoski.pdf?sequence=1&isAllowed=y): Tampere-Virrat, 270 km
